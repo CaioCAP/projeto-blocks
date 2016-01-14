@@ -15,7 +15,7 @@ p{
 p.large{
 	font-size:16px
 	}
-a, 
+a,
 a:hover,
 a:focus,
 a:active,
@@ -255,7 +255,7 @@ header .intro-text .intro-heading{
 	font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 	text-transform:uppercase;
 	font-weight:700;
-	font-size:75px;
+	font-size:50px;
 	line-height:75px;
 	margin-bottom:50px
 	}
@@ -523,7 +523,6 @@ line-height:26px
 	}
 .team-member img{
 	margin:0 auto;
-	border:7px solid #fff
 	}
 .team-member h4{
 	margin-top:25px;
