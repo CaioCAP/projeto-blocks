@@ -6,7 +6,7 @@ body{
 		color:#777;
 		}
 	.text-primary{
-		color:#fed136;
+		color:#129CE5;
 		}
 p{
 	font-size:14px;
@@ -24,13 +24,13 @@ a.active{
 	}
 a
 	{
-	color:#fed136
+	color::#129CE5
 	}
 a:hover,
 a:focus,
 a:active,
 a.active{
-	color:#fec503;
+	color:#129CE5;
 	}
 h1,h2,h3,h4,h5,h6{
 	font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -48,8 +48,8 @@ h1,h2,h3,h4,h5,h6{
 	}
 .btn-primary{
 	color:#fff;
-	background-color:#fed136;
-	border-color:#fed136;
+	background-color:#129CE5;
+	border-color:#129CE5;
 	font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 	text-transform:uppercase;
 	font-weight:700
@@ -82,17 +82,17 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active{
-	background-color:#fed136;
-	border-color:#fed136
+	background-color:#129CE5;
+	border-color:#129CE5
 	}
 .btn-primary .badge{
-	color:#fed136;
+	color:#129CE5;
 	background-color:#fff;
 	}
 .btn-xl{
 	color:#fff;
-	background-color:#fed136;
-	border-color:#fed136;
+	background-color:#129CE5;
+	border-color:#129CE5;
 	font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 	text-transform:uppercase;
 	font-weight:700;
@@ -105,8 +105,8 @@ fieldset[disabled] .btn-primary.active{
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl{
 	color:#fff;
-	background-color:#fec503;
-	border-color:#f6bf01;
+	background-color:rgb(2, 75, 107);
+	border-color:rgb(2, 75, 107);
 	}
 .btn-xl:active,
 .btn-xl.active,
@@ -126,19 +126,19 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active{
-	background-color:#fed136;
-	border-color:#fed136
+	background-color:#129CE5;
+	border-color:#129CE5
 	}
 .btn-xl .badge{
-	color:#fed136;
-	background-color:#fff
+	color:#fff;
+	background-color:#129CE5;
 	}
 .navbar-default{
 	background-color:#222;
 	border-color:transparent
 	}
 .navbar-default .navbar-brand{
-	color:#fed136;
+	color:#fff;
 	font-family:"Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive
 	}
 .navbar-default .navbar-brand:hover,
@@ -151,15 +151,15 @@ fieldset[disabled] .btn-xl.active{
 	border-color:rgba(255,255,255,.02)
 	}
 .navbar-default .navbar-toggle{
-	background-color:#fed136;
-	border-color:#fed136
+	background-color:#129CE5;
+	border-color:#129CE5
 	}
 .navbar-default .navbar-toggle .icon-bar{
 	background-color:#fff
 	}
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus{
-	background-color:#fed136
+	background-color:#129CE5
 	}
 .navbar-default .nav li a{
 	font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -170,12 +170,12 @@ fieldset[disabled] .btn-xl.active{
 	}
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus{
-	color:#fed136;outline:0
+	color:#129CE5;outline:0
 	}
 	.navbar-default .navbar-nav>.active>a{
 		border-radius:0;
 		color:#fff;
-		background-color:#fed136
+		background-color:#129CE5
 		}
 	.navbar-default .navbar-nav>.active>a:hover,
 	.navbar-default .navbar-nav>.active>a:focus{
@@ -404,7 +404,7 @@ section{
 	height:80px;
 	position:absolute;
 	z-index:100;
-	background-color:#fed136;
+	background-color:#129CE5;
 	color:#fff;
 	border-radius:100%;
 	border:7px solid #f1f1f1;
@@ -557,7 +557,7 @@ section#contact .form-group textarea.form-control{
 	height:236px
 	}
 section#contact .form-control:focus{
-	border-color:#fed136;
+	border-color:#129CE5;
 	box-shadow:none
 	}
 section#contact ::-webkit-input-placeholder{
@@ -607,4 +607,4 @@ footer ul.quicklinks{
 ul.social-buttons{
 	margin-bottom:0
 	}
-ul.social-buttons li a{display:block;background-color:#222;height:40px;width:40px;border-radius:100%;font-size:20px;line-height:40px;color:#fff;outline:0;-webkit-transition:all .3s;-moz-transition:all .3s;transition:all .3s}ul.social-buttons li a:hover,ul.social-buttons li a:focus,ul.social-buttons li a:active{background-color:#fed136}.btn:focus,.btn:active,.btn.active,.btn:active:focus{outline:0}.portfolio-modal .modal-content{border-radius:0;background-clip:border-box;-webkit-box-shadow:none;box-shadow:none;border:0;min-height:100%;padding:100px 0;text-align:center}.portfolio-modal .modal-content h2{margin-bottom:15px;font-size:3em}.portfolio-modal .modal-content p{margin-bottom:30px}.portfolio-modal .modal-content p.item-intro{margin:20px 0 30px;font-family:"Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;font-style:italic;font-size:16px}.portfolio-modal .modal-content ul.list-inline{margin-bottom:30px;margin-top:0}.portfolio-modal .modal-content img{margin-bottom:30px}.portfolio-modal .close-modal{position:absolute;width:75px;height:75px;background-color:transparent;top:25px;right:25px;cursor:pointer}.portfolio-modal .close-modal:hover{opacity:.3}.portfolio-modal .close-modal .lr{height:75px;width:1px;margin-left:35px;background-color:#222;transform:rotate(45deg);-ms-transform:rotate(45deg);-webkit-transform:rotate(45deg);z-index:1051}.portfolio-modal .close-modal .lr .rl{height:75px;width:1px;background-color:#222;transform:rotate(90deg);-ms-transform:rotate(90deg);-webkit-transform:rotate(90deg);z-index:1052}.portfolio-modal .modal-backdrop{opacity:0;display:none}::-moz-selection{text-shadow:none;background:#fed136}::selection{text-shadow:none;background:#fed136}img::selection{background:0 0}img::-moz-selection{background:0 0}body{webkit-tap-highlight-color:#fed136}
+ul.social-buttons li a{display:block;background-color:#222;height:40px;width:40px;border-radius:100%;font-size:20px;line-height:40px;color:#fff;outline:0;-webkit-transition:all .3s;-moz-transition:all .3s;transition:all .3s}ul.social-buttons li a:hover,ul.social-buttons li a:focus,ul.social-buttons li a:active{background-color:#129CE5}.btn:focus,.btn:active,.btn.active,.btn:active:focus{outline:0}.portfolio-modal .modal-content{border-radius:0;background-clip:border-box;-webkit-box-shadow:none;box-shadow:none;border:0;min-height:100%;padding:100px 0;text-align:center}.portfolio-modal .modal-content h2{margin-bottom:15px;font-size:3em}.portfolio-modal .modal-content p{margin-bottom:30px}.portfolio-modal .modal-content p.item-intro{margin:20px 0 30px;font-family:"Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;font-style:italic;font-size:16px}.portfolio-modal .modal-content ul.list-inline{margin-bottom:30px;margin-top:0}.portfolio-modal .modal-content img{margin-bottom:30px}.portfolio-modal .close-modal{position:absolute;width:75px;height:75px;background-color:transparent;top:25px;right:25px;cursor:pointer}.portfolio-modal .close-modal:hover{opacity:.3}.portfolio-modal .close-modal .lr{height:75px;width:1px;margin-left:35px;background-color:#222;transform:rotate(45deg);-ms-transform:rotate(45deg);-webkit-transform:rotate(45deg);z-index:1051}.portfolio-modal .close-modal .lr .rl{height:75px;width:1px;background-color:#222;transform:rotate(90deg);-ms-transform:rotate(90deg);-webkit-transform:rotate(90deg);z-index:1052}.portfolio-modal .modal-backdrop{opacity:0;display:none}::-moz-selection{text-shadow:none;background:#129CE5}::selection{text-shadow:none;background:#129CE5}img::selection{background:0 0}img::-moz-selection{background:0 0}body{webkit-tap-highlight-color:#129CE5}
