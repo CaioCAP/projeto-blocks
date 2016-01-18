@@ -1,0 +1,41 @@
+banco de dados blocks
+
+tabela usuarios
+idUsuario?
+usuario
+senha
+nome
+dataNascimento
+email
+
+tabela dependentes
+idUsuário/usuário (de usuarios)
+idDependente?
+nomeDependente
+dataNascimentoDep
+escolaridade
+escola
+emailDependente
+materias
+nívelMaterias?
+tempoDeConquista
+qtdDeQuestoes
+
+tabela questoes
+idQuestao
+escolaridade (de dependentes)
+materia (de dependentes)
+questao
+resposta
+
+tabela desempenho
+idDependente (de dependentes)
+dataRespostas
+acertos
+erros
+tempoGasto
+
+tabela notificacoes
+idNotificacao
+plataformaAcesso
+mensagem?
